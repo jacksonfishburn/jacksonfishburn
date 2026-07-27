@@ -33,8 +33,7 @@ and 2 on my own:
 
 #### Currently
 
-Learning Go so I can rebuild Cabinet and host it without using so much memory on my VPS.
-
+Working on a Cabinet rebuild in Golang, [go-cab](https://github.com/jacksonfishburn/go-cab). I wanted to learn Go for fun and because its much more memory efficient for self hosting. 
 
 
 
