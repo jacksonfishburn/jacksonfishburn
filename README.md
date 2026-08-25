@@ -31,11 +31,6 @@ and 2 on my own:
 - [**LubeLog:**](https://lubelog.jacksonfishburn.dev) Vehicle Maintenance Tracker - Java with Springboot, TypeScript with React
 
 
-#### Currently
-
-Working on a Cabinet rebuild in Golang, [go-cab](https://github.com/jacksonfishburn/go-cab). I wanted to learn Go for fun and because its much more memory efficient for self hosting. 
-
-
 
 
 <!--
